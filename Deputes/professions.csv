@@ -1,0 +1,329 @@
+profession,id,statut,public_prive,fonction
+Administrateur civil,6,140673142411512,140673142411512,140673142411512
+Administrateur civil au ministère de l'équipement,1,140673142411512,140673142411512,140673142411512
+Administrateur civil du ministère des finances,1,295836208,295836208,295836208
+Administrateur civil et avocat,1,295836208,295836208,295836208
+Administrateur civil hors-classe,1,1,1,1
+Administrateur de biens,1,1,1,1
+Administrateur des Finances publiques adjoint,1,1,1,1
+Administrateur à l'Assemblée nationale,1,1,1,1
+Agent EDF,1,1,1,1
+Agent d'assurance,1,1,1,1
+Agent de contrôle retraitée,1,1,1,1
+Agent général d'assurances,1,1,1,1
+Agent public,1,1,1,1
+Agent technique et technicienne,1,1,1,1
+Agent territorial,1,1,1,1
+Agriculteur,3,3,3,3
+Agriculteur-propriétaire exploitant,5,5,5,5
+Agricultrice,1,1,1,1
+Agricultrice-propriétaire exploitante.,1,1,1,1
+Agrégé de mathématiques,1,1,1,1
+Ancien Maître des requêtes au Conseil d'Etat,1,1,1,1
+Ancien assistant parlementaire,1,1,1,1
+Ancien associé gérant,1,1,1,1
+Ancien cadre à la Chambre d'agriculture d'Annecy,1,1,1,1
+Ancien chef d'entreprise,1,1,1,1
+Ancien directeur d'une société de recrutement,1,1,1,1
+Ancien dirigeant d'organisations professionnelles,1,1,1,1
+Ancien journaliste,1,1,1,1
+Ancien sportif de haut niveau,1,1,1,1
+Ancienne chef de cabinet du maire de Colomiers,1,1,1,1
+Architecte,2,2,2,2
+Artisan,1,1,1,1
+Assistant parlementaire,4,4,4,4
+Assistante parlementaire,3,3,3,3
+Assistante sociale,1,1,1,1
+Associé dans un cabinet d'audit international,1,1,1,1
+Attaché de direction,2,2,2,2
+Attaché territorial,1,1,1,1
+Attachée territoriale,1,1,1,1
+Auditeur financier,1,1,1,1
+"Auditeur responsable en environnement,en hygiène industrielle et en sécurité",1,1,1,1
+Autre profession,4,4,4,4
+Avocat,28,28,28,28
+Avocat au Barreau de Paris en omission depuis 2007,1,1,1,1
+Avocat et universitaire,1,1,1,1
+Avocat honoraire,1,1,1,1
+Avocat à la Cour,1,1,1,1
+Avocat à la Cour d'appel de Paris,1,1,1,1
+"Avocat, administrateur territorial",1,1,1,1
+"Avocat, ancien Bâtonnier de l'Ordre",1,1,1,1
+"Avocat, ancien bâtonnier de l'Ordre",1,1,1,1
+Avocate,4,4,4,4
+Biologiste,1,1,1,1
+Biologiste A.I.H.P.,1,1,1,1
+Cadre,7,7,7,7
+Cadre A de la fonction publique territoriale,2,2,2,2
+Cadre ERDF,1,1,1,1
+Cadre administratif,4,4,4,4
+Cadre associatif,1,1,1,1
+Cadre bancaire,2,2,2,2
+Cadre bancaire retraité,1,1,1,1
+Cadre commercial,1,1,1,1
+Cadre commercial d'entreprise de manutention et d'acconage,1,1,1,1
+Cadre comptable,1,1,1,1
+Cadre d'action sociale,1,1,1,1
+Cadre d'entreprise,4,4,4,4
+Cadre d'entreprise chargé des relations sociales,1,1,1,1
+Cadre de banque,1,1,1,1
+Cadre de chambre de commerce et d'industrie,1,1,1,1
+Cadre de direction,1,1,1,1
+Cadre de l'industrie,1,1,1,1
+Cadre de l'industrie pharmaceutique,1,1,1,1
+Cadre de la fonction publique,1,1,1,1
+Cadre de la fonction publique territoriale,1,1,1,1
+Cadre de société,1,1,1,1
+Cadre des collectivités locales,1,1,1,1
+Cadre dirigeant du secteur privé,1,1,1,1
+Cadre du secteur hospitalier,1,1,1,1
+Cadre du secteur privé,13,13,13,13
+Cadre du secteur privé retraité,1,1,1,1
+Cadre du secteur public,3,3,3,3
+Cadre hospitalier,2,2,2,2
+Cadre supérieur,1,1,1,1
+"Cadre supérieur de la fonction publique, directeur territorial",1,1,1,1
+Cadre supérieur du secteur privé,21,21,21,21
+Cadre supérieur du secteur public,3,3,3,3
+Cadre territorial,6,6,6,6
+Cadre territorial de catégorie A,1,1,1,1
+Cardiologue,2,2,2,2
+Chargé de communication,1,1,1,1
+Chargé de mission auprès d'un conseil régional,1,1,1,1
+Chargé de mission d'inspection de l'enseignement technique retraité,1,1,1,1
+Chargé de mission de l'établissement public foncier de Bretagne,1,1,1,1
+Chargée d'études,1,1,1,1
+Chargée d'études à la DDE des Pyrénées-Atlantiques,1,1,1,1
+Chargée de mission,1,1,1,1
+Chargée de mission - Ancienne déléguée régionale chargée des droits des femmes,1,1,1,1
+Chef d'entreprise,12,12,12,12
+Chef d'entreprise et assureur,1,1,1,1
+Chef d'entreprise retraité,1,1,1,1
+Chef d'établissement scolaire,1,1,1,1
+Chef de projet dans l'industrie,1,1,1,1
+Chimiste,1,1,1,1
+Chirurgien,1,1,1,1
+"Chirurgien des hôpitaux, professeur des Universités",1,1,1,1
+Chirurgien plasticien,1,1,1,1
+Chirurgien-Dentiste,1,1,1,1
+Collaborateur de cabinet,1,1,1,1
+Collaborateur parlementaire,1,1,1,1
+Collaboratrice dans une entreprise publique,1,1,1,1
+Commercant,2,2,2,2
+Commercante,1,1,1,1
+Commerçant,1,1,1,1
+Commerçante,1,1,1,1
+Comptable,3,3,3,3
+Conseil en communication,1,1,1,1
+Conseil en entreprises,1,1,1,1
+Conseiller d'Etat,1,1,1,1
+Conseiller d'État,2,2,2,2
+Conseiller des affaires étrangères,1,1,1,1
+Conseiller en communication,2,2,2,2
+Conseiller en formation,1,1,1,1
+Conseiller financier et bancaire,1,1,1,1
+Conseiller maître à la Cour des Comptes,1,1,1,1
+Conseiller maître à la cour des comptes,1,1,1,1
+Conseiller économique,1,1,1,1
+Conseillère d'Etat,1,1,1,1
+Conseillère principale d'éducation,1,1,1,1
+Conseillère technique au centre d'information des droits de la femme,1,1,1,1
+Consultant,3,3,3,3
+Consultant affaires européennes,1,1,1,1
+Consultant en communication,2,2,2,2
+Consultant en gestion,1,1,1,1
+Consultant en gestion et management,1,1,1,1
+Consultant en management,1,1,1,1
+Consultant international,1,1,1,1
+Consultant sécurité,1,1,1,1
+Consultante juridique,1,1,1,1
+Contractuel dans la Fonction publique territoriale,1,1,1,1
+DRH Aéronautique,1,1,1,1
+Dentiste,1,1,1,1
+Dessinateur industriel,1,1,1,1
+Dessinatrice industrielle Michelin,1,1,1,1
+Directeur administratif et financier,1,1,1,1
+Directeur associé de société,1,1,1,1
+Directeur commercial,2,2,2,2
+Directeur d'hôpital,1,1,1,1
+Directeur d'un organisme de financement du logement social,1,1,1,1
+Directeur d'un établissement pour l'enfance handicapée,1,1,1,1
+Directeur d'école retraité,1,1,1,1
+Directeur de cabinet,2,2,2,2
+Directeur de maison de retraite,1,1,1,1
+Directeur de programme immobilier,1,1,1,1
+Directeur de société,5,5,5,5
+Directeur des ressources humaines,1,1,1,1
+Directeur divisionnaire des impôts honoraire,1,1,1,1
+Directeur du développement,1,1,1,1
+Directeur informatique,1,1,1,1
+Directeur à la Banque de France,1,1,1,1
+Directeur-adjoint de banque,1,1,1,1
+Directrice d'un institut médico-éducatif,1,1,1,1
+Directrice d'école maternelle,1,1,1,1
+Directrice d'équipement social et culturel,1,1,1,1
+Directrice de mission,1,1,1,1
+Directrice des ventes,1,1,1,1
+Directrice marketing,1,1,1,1
+Directrice territoriale,1,1,1,1
+Dirigeant d'entreprise,1,1,1,1
+"Docteur de l'Ecole Polytechnique, chargée de Recherche à l'ENTPE",1,1,1,1
+Docteur en chirurgie dentaire,1,1,1,1
+Economiste,1,1,1,1
+Educateur,1,1,1,1
+Employée,1,1,1,1
+Employée du secteur privé,1,1,1,1
+En disponibilité,1,1,1,1
+Enseignant,8,8,8,8
+Enseignant - Chercheur - Praticien hospitalier,1,1,1,1
+Enseignant 1er deg.-directeur école,1,1,1,1
+Enseignant du 1er degré,1,1,1,1
+Enseignant retraité,1,1,1,1
+"Enseignant, puis chef d'entreprise",1,1,1,1
+Enseignant-chercheur,1,1,1,1
+Enseignante,1,1,1,1
+Enseignante en sciences économiques et sociales,1,1,1,1
+Enseignante et écrivain,1,1,1,1
+Enseignante-directrice d'école,1,1,1,1
+Etudiante,1,1,1,1
+Expert auprès de l'Agence européenne de sécurité maritime,1,1,1,1
+Expert foncier et commercial,1,1,1,1
+Expert-comptable,1,1,1,1
+"Expert-comptable, commissaire aux comptes et expert judiciaire",1,1,1,1
+Exploitant agricole,1,1,1,1
+Fonctionnaire,1,1,1,1
+Fonctionnaire de catégorie A,24,24,24,24
+Fonctionnaire de catégorie B,3,3,3,3
+Fonctionnaire de l'État en disponibilité,1,1,1,1
+Fonctionnaire des grands corps de l'État,1,1,1,1
+Fonctionnaire retraité,1,1,1,1
+Fonctionnaire territorial,4,4,4,4
+Fonctionnaire territorial de catégorie A,1,1,1,1
+Fonctionnaire territoriale,1,1,1,1
+Grand corps de l'État,1,1,1,1
+Grands corps de l'État,6,6,6,6
+Gynécologue obstétricien,1,1,1,1
+Gérant d'entreprise,1,1,1,1
+Gérant de société,2,2,2,2
+Gérant de sociétés,1,1,1,1
+Homme de lettres et artiste,1,1,1,1
+Horticulteur,1,1,1,1
+Industriel - Chef d'entreprise,1,1,1,1
+Industriel-Chef d'entreprise,5,5,5,5
+Infirmière,1,1,1,1
+Informaticien,1,1,1,1
+Ingénieur,9,9,9,9
+Ingénieur ETP,1,1,1,1
+Ingénieur conseil,1,1,1,1
+Ingénieur de la ville de Paris,1,1,1,1
+Ingénieur des travaux publics,1,1,1,1
+Ingénieur en chef des mines,1,1,1,1
+Ingénieure,1,1,1,1
+Inspecteur assurance-vie,1,1,1,1
+Inspecteur des affaires sanitaires et sociales,1,1,1,1
+Inspecteur du Trésor,1,1,1,1
+Inspecteur général des Affaires sociales,1,1,1,1
+Inspecteur général des finances honoraire,1,1,1,1
+Instituteur,2,2,2,2
+Journaliste,6,6,6,6
+Journaliste reporter-photographe,1,1,1,1
+Juriste,5,5,5,5
+Kinésithérapeute,1,1,1,1
+Magistrat,3,3,3,3
+Magistrat à la Cour des Comptes,1,1,1,1
+Magistrat à la Cour des comptes (conseiller référendaire de première classe),1,1,1,1
+Maître de conférences,4,4,4,4
+Maître de conférences associée,1,1,1,1
+Maître de conférences en économie (Paris I),1,1,1,1
+Maître de conférences à Sciences Po,1,1,1,1
+Maître de conférences à l'Université,1,1,1,1
+Maître des Requêtes au Conseil d'État,1,1,1,1
+Maître des requêtes au Conseil d'État,1,1,1,1
+Ministre plénipotentiaire,1,1,1,1
+Médecin,8,8,8,8
+Médecin O.R.L. retraité,1,1,1,1
+Médecin ORL,1,1,1,1
+Médecin anesthésiste-réanimateur,1,1,1,1
+Médecin cardiologue,2,2,2,2
+Médecin cardiologue (Chef de service),1,1,1,1
+Médecin des hôpitaux,1,1,1,1
+Médecin généraliste,3,3,3,3
+Médecin hospitalier,2,2,2,2
+Médecin neurologue hospitalier,1,1,1,1
+Médecin retraité,1,1,1,1
+Notaire,2,2,2,2
+Opticien,1,1,1,1
+Permanent politique,5,5,5,5
+Personnel de direction,1,1,1,1
+Pharmacien,2,2,2,2
+Pharmacien retraité,1,1,1,1
+Pharmacienne,2,2,2,2
+Praticien hospitalier,1,1,1,1
+Principal de collège,1,1,1,1
+Principal de collège retraité,1,1,1,1
+Professeur,6,6,6,6
+Professeur IUT de Lille 3 - Expert-comptable,1,1,1,1
+Professeur agrégé,1,1,1,1
+Professeur certifié,1,1,1,1
+"Professeur certifié de sciences économiques et sociales, enseignement secondaire",1,1,1,1
+Professeur d'Education physique (Université Bordeaux IV),1,1,1,1
+Professeur d'Université,2,2,2,2
+Professeur d'histoire-géographie,1,1,1,1
+Professeur de Mathématiques - Proviseur,1,1,1,1
+Professeur de collège,1,1,1,1
+Professeur de faculté,2,2,2,2
+Professeur de lettres,1,1,1,1
+Professeur de lycée agrégé d'histoire,1,1,1,1
+Professeur de mathématiques,1,1,1,1
+Professeur de médecine,1,1,1,1
+Professeur des Universités,2,2,2,2
+Professeur des écoles,3,3,3,3
+Professeur du secondaire,12,12,12,12
+Professeur à l'I.E.P.,1,1,1,1
+Profession libérale,5,5,5,5
+Profession rattachée à l'enseignement,1,1,1,1
+Proviseur,1,1,1,1
+Préfet,3,3,3,3
+"Préfet , Ingénieur agronome , Ingénieur du génie rural des eaux et forêts",1,1,1,1
+Président de sociétés,1,1,1,1
+Psychiatre des hôpitaux,1,1,1,1
+Représentant de commerce,1,1,1,1
+Responsable Ressources Humaines en dispense d'activité,1,1,1,1
+Responsable communication,1,1,1,1
+Responsable de formation,1,1,1,1
+Responsable de relations institutionnelles,1,1,1,1
+Retraité,4,4,4,4
+Retraité de l'agriculture,1,1,1,1
+Retraité de l'enseignement,12,12,12,12
+Retraité de l'Éducation nationale,1,1,1,1
+Retraité de l'éducation spécialisée,1,1,1,1
+Retraité de la SNCF,1,1,1,1
+Retraité de la fonction publique,3,3,3,3
+Retraité de la fonction publique territoriale,1,1,1,1
+Retraité des entreprises publiques,1,1,1,1
+Retraité du secteur privé,5,5,5,5
+Retraité enseignant d'Université,1,1,1,1
+Retraitée cadre bancaire,1,1,1,1
+Retraitée de l'enseignement,8,8,8,8
+Retraitée de l'Éducation nationale,1,1,1,1
+Retraitée de la Fonction publique,1,1,1,1
+Retraitée de la fonction publique,4,4,4,4
+Retraitée du secteur privé,3,3,3,3
+Sage-femme,2,2,2,2
+Salariée du secteur médical,1,1,1,1
+Sans profession,1,1,1,1
+Sans profession declaree,26,26,26,26
+Secrétaire de direction,1,1,1,1
+Secrétaire de mairie,1,1,1,1
+Sous-préfet,2,2,2,2
+Sportif de haut niveau - consultant,1,1,1,1
+Technicien agricole,1,1,1,1
+Technicien biologiste,1,1,1,1
+Technicien des services vétérinaires,1,1,1,1
+Urbaniste,2,2,2,2
+Viticulteur,2,2,2,2
+Viticultrice,1,1,1,1
+Vétérinaire,2,2,2,2
+Économiste,3,3,3,3
+Éducateur spécialisé,1,1,1,1
+Électromécanicien,1,1,1,1

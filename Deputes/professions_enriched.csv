@@ -1,0 +1,329 @@
+profession,count,statut,public_prive,fonction
+Administrateur de biens,1,actif,prive,??
+Agent de contrôle retraitée,1,retraite,prive,??
+Agent EDF,1,actif,public,??
+Agent public,1,actif,public,??
+Agent technique et technicienne,1,actif,public,??
+Ancien directeur d'une société de recrutement,1,retraite,prive,??
+Attaché de direction,2,actif,??,??
+Autre profession,4,actif,??,??
+Cadre,7,actif,??,??
+Cadre A de la fonction publique territoriale,2,actif,public,??
+Cadre de direction,1,actif,prive,??
+Cadre de la fonction publique,1,actif,public,??
+Cadre de la fonction publique territoriale,1,actif,public,??
+Cadre de société,1,actif,prive,??
+Cadre dirigeant du secteur privé,1,actif,prive,??
+Cadre du secteur privé,13,actif,prive,??
+Cadre du secteur privé retraité,1,retraite,prive,??
+Cadre du secteur public,3,actif,public,??
+Cadre ERDF,1,actif,public,??
+Cadre supérieur,1,actif,public,??
+"Cadre supérieur de la fonction publique, directeur territorial",1,actif,public,??
+Cadre supérieur du secteur privé,21,actif,prive,??
+Chargée d'études,1,actif,prive,??
+Chargée de mission,1,actif,public,??
+Chef d'entreprise retraité,1,retraite,prive,??
+Contractuel dans la Fonction publique territoriale,1,actif,public,??
+Directeur administratif et financier,1,actif,prive,??
+Directeur associé de société,1,actif,prive,??
+Directeur de programme immobilier,1,actif,prive,??
+Directeur de société,5,actif,prive,??
+Directeur des ressources humaines,1,actif,prive,??
+Directeur du développement,1,actif,prive,??
+Directeur informatique,1,actif,??,??
+Directrice de mission,1,actif,public,??
+Directrice des ventes,1,actif,prive,??
+Directrice marketing,1,actif,prive,??
+Employée,1,actif,prive,??
+Employée du secteur privé,1,actif,prive,??
+En disponibilité,1,actif,prive,??
+Etudiante,1,Sans Profession,??,??
+Fonctionnaire,1,actif,public,??
+Fonctionnaire de catégorie A,24,actif,public,??
+Fonctionnaire de catégorie B,3,actif,public,??
+Fonctionnaire de l'État en disponibilité,1,actif,public,??
+Fonctionnaire des grands corps de l'État,1,actif,public,??
+Fonctionnaire retraité,1,retraite,public,??
+Fonctionnaire territorial,4,actif,public,??
+Fonctionnaire territorial de catégorie A,1,actif,public,??
+Fonctionnaire territoriale,1,actif,public,??
+Informaticien,1,actif,prive,??
+Ingénieur,9,actif,prive,??
+Ingénieure,1,actif,prive,??
+Personnel de direction,1,actif,prive,??
+Profession libérale,5,actif,prive,??
+Responsable de relations institutionnelles,1,actif,prive,??
+Responsable Ressources Humaines en dispense d'activité,1,actif,prive,??
+Retraité,4,retraite,??,??
+Retraité de la fonction publique,3,retraite,public,??
+Retraité de la fonction publique territoriale,1,retraite,public,??
+Retraité des entreprises publiques,1,retraite,public,??
+Retraité du secteur privé,5,retraite,prive,??
+Retraitée de la Fonction publique,1,retraite,public,??
+Retraitée de la fonction publique,4,retraite,public,??
+Retraitée du secteur privé,3,retraite,prive,??
+Sans profession,1,Sans Profession,??,??
+Sans profession declaree,26,Sans Profession,??,??
+Secrétaire de direction,1,actif,prive,??
+Administrateur à l'Assemblée nationale,1,actif,public,Administration publique 
+Administrateur civil,6,actif,public,Administration publique 
+Administrateur civil au ministère de l'équipement,1,actif,public,Administration publique 
+Administrateur civil du ministère des finances,1,actif,public,Administration publique 
+Administrateur civil et avocat,1,actif,public,Administration publique 
+Administrateur civil hors-classe,1,actif,public,Administration publique 
+Administrateur des Finances publiques adjoint,1,actif,public,Administration publique 
+Agent territorial,1,actif,public,Administration publique 
+Ancien assistant parlementaire,1,retraite,public,Administration publique 
+Ancien Maître des requêtes au Conseil d'Etat,1,actif,public,Administration publique 
+Ancienne chef de cabinet du maire de Colomiers,1,retraite,public,Administration publique 
+Assistant parlementaire,4,actif,public,Administration publique 
+Assistante parlementaire,3,actif,public,Administration publique 
+Attaché territorial,1,actif,public,Administration publique 
+Attachée territoriale,1,actif,public,Administration publique 
+Cadre administratif,4,actif,public,Administration publique 
+Cadre de chambre de commerce et d'industrie,1,actif,public,Administration publique 
+Cadre des collectivités locales,1,actif,public,Administration publique 
+Cadre supérieur du secteur public,3,actif,public,Administration publique 
+Cadre territorial,6,actif,public,Administration publique 
+Cadre territorial de catégorie A,1,actif,public,Administration publique 
+Chargé de mission auprès d'un conseil régional,1,actif,public,Administration publique 
+Chargé de mission de l'établissement public foncier de Bretagne,1,actif,public,Administration publique 
+Collaborateur de cabinet,1,actif,public,Administration publique 
+Collaborateur parlementaire,1,actif,public,Administration publique 
+Conseiller d'Etat,1,actif,public,Administration publique 
+Conseiller d'État,2,actif,public,Administration publique 
+Conseiller des affaires étrangères,1,actif,public,Administration publique 
+Conseiller économique,1,actif,public,Administration publique 
+Conseiller maître à la Cour des Comptes,1,actif,public,Administration publique 
+Conseiller maître à la cour des comptes,1,actif,public,Administration publique 
+Conseillère d'Etat,1,actif,public,Administration publique 
+Conseillère principale d'éducation,1,actif,public,Administration publique 
+Directeur à la Banque de France,1,actif,public,Administration publique 
+Directeur de cabinet,2,actif,public,Administration publique 
+Directeur divisionnaire des impôts honoraire,1,actif,public,Administration publique 
+Directrice territoriale,1,actif,public,Administration publique 
+Economiste,1,actif,public,Administration publique 
+Économiste,3,actif,public,Administration publique 
+Grand corps de l'État,1,actif,public,Administration publique 
+Grands corps de l'État,6,actif,public,Administration publique 
+Ingénieur de la ville de Paris,1,actif,public,Administration publique 
+Inspecteur du Trésor,1,actif,public,Administration publique 
+Inspecteur général des finances honoraire,1,actif,public,Administration publique 
+Magistrat,3,actif,public,Administration publique 
+Magistrat à la Cour des Comptes,1,actif,public,Administration publique 
+Magistrat à la Cour des comptes (conseiller référendaire de première classe),1,actif,public,Administration publique 
+Maître des Requêtes au Conseil d'État,1,actif,public,Administration publique 
+Maître des requêtes au Conseil d'État,1,actif,public,Administration publique 
+Ministre plénipotentiaire,1,actif,public,Administration publique 
+Permanent politique,5,actif,public,Administration publique 
+Préfet,3,actif,public,Administration publique 
+"Préfet , Ingénieur agronome , Ingénieur du génie rural des eaux et forêts",1,actif,public,Administration publique 
+Secrétaire de mairie,1,actif,public,Administration publique 
+Sous-préfet,2,actif,public,Administration publique 
+Agriculteur,3,actif,prive,Agriculture 
+Agriculteur-propriétaire exploitant,5,actif,prive,Agriculture 
+Agricultrice,1,actif,prive,Agriculture 
+Agricultrice-propriétaire exploitante.,1,actif,prive,Agriculture 
+Ancien cadre à la Chambre d'agriculture d'Annecy,1,??,prive,Agriculture 
+Exploitant agricole,1,actif,prive,Agriculture 
+Horticulteur,1,actif,prive,Agriculture 
+Retraité de l'agriculture,1,retraite,prive,Agriculture 
+Technicien agricole,1,actif,prive,Agriculture 
+Viticulteur,2,actif,prive,Agriculture 
+Viticultrice,1,actif,prive,Agriculture 
+Architecte,2,actif,prive,"Bâtiment, travaux publics "
+Chargée d'études à la DDE des Pyrénées-Atlantiques,1,actif,public,"Bâtiment, travaux publics "
+Ingénieur des travaux publics,1,actif,prive,"Bâtiment, travaux publics "
+Ingénieur en chef des mines,1,actif,public,"Bâtiment, travaux publics "
+Ingénieur ETP,1,actif,prive,"Bâtiment, travaux publics "
+Urbaniste,2,actif,prive,"Bâtiment, travaux publics "
+Ancien journaliste,1,retraite,prive,"Culture, loisirs "
+Ancien sportif de haut niveau,1,retraite,public,"Culture, loisirs "
+Homme de lettres et artiste,1,actif,prive,"Culture, loisirs "
+Journaliste,6,actif,prive,"Culture, loisirs "
+Journaliste reporter-photographe,1,actif,prive,"Culture, loisirs "
+Sportif de haut niveau - consultant,1,actif,prive,"Culture, loisirs "
+Agrégé de mathématiques,1,actif,public,"Education, formation "
+Chargé de mission d'inspection de l'enseignement technique retraité,1,retraite,public,"Education, formation "
+Chef d'établissement scolaire,1,actif,public,"Education, formation "
+Directeur d'école retraité,1,retraite,public,"Education, formation "
+Directrice d'école maternelle,1,actif,public,"Education, formation "
+"Docteur de l'Ecole Polytechnique, chargée de Recherche à l'ENTPE",1,actif,public,"Education, formation "
+Educateur,1,actif,public,"Education, formation "
+Éducateur spécialisé,1,actif,public,"Education, formation "
+Enseignant,8,actif,public,"Education, formation "
+Enseignant - Chercheur - Praticien hospitalier,1,actif,public,"Education, formation "
+Enseignant 1er deg.-directeur école,1,actif,public,"Education, formation "
+Enseignant du 1er degré,1,actif,public,"Education, formation "
+Enseignant retraité,1,retraite,public,"Education, formation "
+Enseignant-chercheur,1,actif,public,"Education, formation "
+"Enseignant, puis chef d'entreprise",1,actif,public,"Education, formation "
+Enseignante,1,actif,public,"Education, formation "
+Enseignante en sciences économiques et sociales,1,actif,public,"Education, formation "
+Enseignante et écrivain,1,actif,public,"Education, formation "
+Enseignante-directrice d'école,1,actif,public,"Education, formation "
+Instituteur,2,actif,public,"Education, formation "
+Maître de conférences,4,actif,public,"Education, formation "
+Maître de conférences à l'Université,1,actif,public,"Education, formation "
+Maître de conférences à Sciences Po,1,actif,public,"Education, formation "
+Maître de conférences associée,1,actif,public,"Education, formation "
+Maître de conférences en économie (Paris I),1,actif,public,"Education, formation "
+Principal de collège,1,actif,public,"Education, formation "
+Principal de collège retraité,1,retraite,public,"Education, formation "
+Professeur,6,actif,public,"Education, formation "
+Professeur à l'I.E.P.,1,actif,public,"Education, formation "
+Professeur agrégé,1,actif,public,"Education, formation "
+Professeur certifié,1,actif,public,"Education, formation "
+"Professeur certifié de sciences économiques et sociales, enseignement secondaire",1,actif,public,"Education, formation "
+Professeur d'Education physique (Université Bordeaux IV),1,actif,public,"Education, formation "
+Professeur d'histoire-géographie,1,actif,public,"Education, formation "
+Professeur d'Université,2,actif,public,"Education, formation "
+Professeur de collège,1,actif,public,"Education, formation "
+Professeur de faculté,2,actif,public,"Education, formation "
+Professeur de lettres,1,actif,public,"Education, formation "
+Professeur de lycée agrégé d'histoire,1,actif,public,"Education, formation "
+Professeur de mathématiques,1,actif,public,"Education, formation "
+Professeur de Mathématiques - Proviseur,1,actif,public,"Education, formation "
+Professeur des écoles,3,actif,public,"Education, formation "
+Professeur des Universités,2,actif,public,"Education, formation "
+Professeur du secondaire,12,actif,public,"Education, formation "
+Professeur IUT de Lille 3 - Expert-comptable,1,actif,public,"Education, formation "
+Profession rattachée à l'enseignement,1,actif,prive,"Education, formation "
+Proviseur,1,actif,public,"Education, formation "
+Responsable de formation,1,actif,prive,"Education, formation "
+Retraité de l'Éducation nationale,1,retraite,public,"Education, formation "
+Retraité de l'éducation spécialisée,1,retraite,public,"Education, formation "
+Retraité de l'enseignement,12,retraite,public,"Education, formation "
+Retraité enseignant d'Université,1,retraite,public,"Education, formation "
+Retraitée de l'Éducation nationale,1,retraite,public,"Education, formation "
+Retraitée de l'enseignement,8,retraite,public,"Education, formation "
+Artisan,1,actif,prive,"Entretien, réparation "
+Cadre de l'industrie,1,actif,prive,Fabrication 
+Chef de projet dans l'industrie,1,actif,prive,Fabrication 
+Chimiste,1,actif,prive,Fabrication 
+Dessinateur industriel,1,actif,prive,Fabrication 
+Dessinatrice industrielle Michelin,1,actif,prive,Fabrication 
+Électromécanicien,1,actif,prive,Fabrication 
+Agent d'assurance,1,actif,prive,Gestion
+Agent général d'assurances,1,actif,prive,Gestion
+Ancien associé gérant,1,actif,prive,Gestion
+Ancien chef d'entreprise,1,retraite,prive,Gestion
+Ancien dirigeant d'organisations professionnelles,1,actif,prive,Gestion
+Associé dans un cabinet d'audit international,1,actif,prive,Gestion
+Auditeur financier,1,actif,prive,Gestion
+"Auditeur responsable en environnement,en hygiène industrielle et en sécurité",1,actif,prive,Gestion
+Cadre bancaire,2,actif,prive,Gestion
+Cadre bancaire retraité,1,retraite,prive,Gestion
+Cadre comptable,1,actif,prive,Gestion
+Cadre d'entreprise,4,actif,prive,Gestion
+Cadre d'entreprise chargé des relations sociales,1,actif,prive,Gestion
+Cadre de banque,1,actif,prive,Gestion
+Chef d'entreprise,12,actif,prive,Gestion
+Chef d'entreprise et assureur,1,actif,prive,Gestion
+Collaboratrice dans une entreprise publique,1,actif,public,Gestion
+Comptable,3,actif,prive,Gestion
+Conseil en entreprises,1,actif,prive,Gestion
+Consultant,3,actif,public,Gestion
+Consultant affaires européennes,1,actif,prive,Gestion
+Consultant en communication,2,actif,prive,Gestion
+Consultant en gestion,1,actif,prive,Gestion
+Consultant en gestion et management,1,actif,prive,Gestion
+Consultant en management,1,actif,prive,Gestion
+Consultant international,1,actif,prive,Gestion
+Consultant sécurité,1,actif,prive,Gestion
+Consultante juridique,1,actif,prive,Gestion
+Directeur-adjoint de banque,1,actif,prive,Gestion
+Dirigeant d'entreprise,1,actif,prive,Gestion
+Expert foncier et commercial,1,actif,prive,Gestion
+Expert-comptable,1,actif,prive,Gestion
+"Expert-comptable, commissaire aux comptes et expert judiciaire",1,actif,prive,Gestion
+Gérant d'entreprise,1,actif,prive,Gestion
+Gérant de société,2,actif,prive,Gestion
+Gérant de sociétés,1,actif,prive,Gestion
+Industriel - Chef d'entreprise,1,actif,prive,Gestion
+Industriel-Chef d'entreprise,5,actif,prive,Gestion
+Inspecteur assurance-vie,1,actif,prive,Gestion
+Juriste,5,actif,prive,Gestion
+Notaire,2,actif,prive,Gestion
+Président de sociétés,1,actif,prive,Gestion
+Responsable communication,1,actif,prive,Gestion
+Retraitée cadre bancaire,1,retraite,prive,Gestion
+Avocat,28,actif,prive,Prestations intellectuelles 
+Avocat à la Cour,1,actif,prive,Prestations intellectuelles 
+Avocat à la Cour d'appel de Paris,1,actif,prive,Prestations intellectuelles 
+Avocat au Barreau de Paris en omission depuis 2007,1,actif,prive,Prestations intellectuelles 
+Avocat et universitaire,1,actif,prive,Prestations intellectuelles 
+Avocat honoraire,1,actif,prive,Prestations intellectuelles 
+"Avocat, administrateur territorial",1,actif,prive,Prestations intellectuelles 
+"Avocat, ancien Bâtonnier de l'Ordre",1,actif,prive,Prestations intellectuelles 
+"Avocat, ancien bâtonnier de l'Ordre",1,actif,prive,Prestations intellectuelles 
+Avocate,4,actif,prive,Prestations intellectuelles 
+Chargé de communication,1,actif,prive,Prestations intellectuelles 
+Conseil en communication,1,actif,prive,Prestations intellectuelles 
+Conseiller en communication,2,actif,prive,Prestations intellectuelles 
+Conseiller en formation,1,actif,prive,Prestations intellectuelles 
+Conseiller financier et bancaire,1,actif,prive,Prestations intellectuelles 
+Ingénieur conseil,1,actif,prive,Prestations intellectuelles 
+Assistante sociale,1,actif,public,"Santé, social "
+Biologiste,1,actif,prive,"Santé, social "
+Biologiste A.I.H.P.,1,actif,public,"Santé, social "
+Cadre associatif,1,actif,public,"Santé, social "
+Cadre commercial d'entreprise de manutention et d'acconage,1,actif,prive,"Santé, social "
+Cadre d'action sociale,1,actif,public,"Santé, social "
+Cadre de l'industrie pharmaceutique,1,actif,prive,"Santé, social "
+Cadre du secteur hospitalier,1,actif,public,"Santé, social "
+Cadre hospitalier,2,actif,public,"Santé, social "
+Cardiologue,2,actif,prive,"Santé, social "
+Chargée de mission - Ancienne déléguée régionale chargée des droits des femmes,1,actif,public,"Santé, social "
+Chirurgien,1,actif,prive,"Santé, social "
+"Chirurgien des hôpitaux, professeur des Universités",1,actif,prive,"Santé, social "
+Chirurgien plasticien,1,actif,prive,"Santé, social "
+Chirurgien-Dentiste,1,actif,prive,"Santé, social "
+Conseillère technique au centre d'information des droits de la femme,1,actif,public,"Santé, social "
+Dentiste,1,actif,prive,"Santé, social "
+Directeur d'hôpital,1,actif,public,"Santé, social "
+Directeur d'un établissement pour l'enfance handicapée,1,actif,public,"Santé, social "
+Directeur d'un organisme de financement du logement social,1,actif,public,"Santé, social "
+Directeur de maison de retraite,1,actif,prive,"Santé, social "
+Directrice d'équipement social et culturel,1,actif,public,"Santé, social "
+Directrice d'un institut médico-éducatif,1,actif,public,"Santé, social "
+Docteur en chirurgie dentaire,1,actif,prive,"Santé, social "
+Gynécologue obstétricien,1,actif,prive,"Santé, social "
+Infirmière,1,actif,prive,"Santé, social "
+Inspecteur des affaires sanitaires et sociales,1,actif,public,"Santé, social "
+Inspecteur général des Affaires sociales,1,actif,public,"Santé, social "
+Kinésithérapeute,1,actif,prive,"Santé, social "
+Médecin,8,actif,prive,"Santé, social "
+Médecin anesthésiste-réanimateur,1,actif,prive,"Santé, social "
+Médecin cardiologue,2,actif,prive,"Santé, social "
+Médecin cardiologue (Chef de service),1,actif,public,"Santé, social "
+Médecin des hôpitaux,1,actif,public,"Santé, social "
+Médecin généraliste,3,actif,prive,"Santé, social "
+Médecin hospitalier,2,actif,public,"Santé, social "
+Médecin neurologue hospitalier,1,actif,public,"Santé, social "
+Médecin O.R.L. retraité,1,retraite,prive,"Santé, social "
+Médecin ORL,1,actif,prive,"Santé, social "
+Médecin retraité,1,retraite,prive,"Santé, social "
+Opticien,1,actif,prive,"Santé, social "
+Pharmacien,2,actif,prive,"Santé, social "
+Pharmacien retraité,1,retraite,prive,"Santé, social "
+Pharmacienne,2,actif,prive,"Santé, social "
+Praticien hospitalier,1,actif,public,"Santé, social "
+Professeur de médecine,1,actif,public,"Santé, social "
+Psychiatre des hôpitaux,1,actif,public,"Santé, social "
+Sage-femme,2,actif,prive,"Santé, social "
+Salariée du secteur médical,1,actif,prive,"Santé, social "
+Technicien biologiste,1,actif,prive,"Santé, social "
+Technicien des services vétérinaires,1,actif,prive,"Santé, social "
+Vétérinaire,2,actif,prive,"Santé, social "
+Cadre commercial,1,actif,prive,Services de proximité 
+Commercant,2,actif,prive,Services de proximité 
+Commerçant,1,actif,prive,Services de proximité 
+Commercante,1,actif,prive,Services de proximité 
+Commerçante,1,actif,prive,Services de proximité 
+Directeur commercial,2,actif,prive,Services de proximité 
+Représentant de commerce,1,actif,prive,Services de proximité 
+DRH Aéronautique,1,actif,prive,"Transports, logistique "
+Expert auprès de l'Agence européenne de sécurité maritime,1,actif,public,"Transports, logistique "
+Retraité de la SNCF,1,retraite,public,"Transports, logistique "
